@@ -1,6 +1,6 @@
 {
-  "name": "Xbox Cloud Gaming Buttoneer",
-  "description": "Automatically hides buttons on Xbox Cloud Gaming.",
+  "name": "Cloud Gaming Buttoneer",
+  "description": "Automatically hides buttons on certain cloud gaming services.",
   "version": "1.0",
   "manifest_version": 3,
   "icons": {
